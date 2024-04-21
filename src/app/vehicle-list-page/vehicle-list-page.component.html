@@ -1,0 +1,8 @@
+<h3>Your vehicles:</h3>
+<app-vehicles-list
+  *ngIf="listState.state === 'success'"
+  [vehicles]="listState.results"
+/>
+<p *ngIf="listState.state==='error'">{{ listState.error.message }}</p>
+<p *ngIf="listState.state==='loading'">Loading...</p>
+<button>Add vehicle</button>
