@@ -1,0 +1,95 @@
+{
+  "vehicles": [
+    {
+      "id": 1,
+      "vin": "ABC123",
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2020,
+      "mileage": 30000,
+      "fuel": "LPG",
+      "licence_plate": "XYZ789",
+      "refuel_counter": 3,
+      "model_description": "Sedan",
+      "transmission": "AUTOMATIC"
+    },
+    {
+      "id": 2,
+      "vin": "DEF456",
+      "make": "Honda",
+      "model": "Accord",
+      "year": 2018,
+      "mileage": 40000,
+      "fuel": "ETHANOL",
+      "licence_plate": "LMN012",
+      "refuel_counter": 5,
+      "model_description": "Coupe",
+      "transmission": "MANUAL"
+    },
+    {
+      "id": 3,
+      "vin": "DEF456",
+      "make": "Honda",
+      "model": "Accord",
+      "year": 2018,
+      "mileage": 40000,
+      "fuel": "DIESEL",
+      "licence_plate": "LMN012",
+      "refuel_counter": 5,
+      "model_description": "Coupe",
+      "transmission": "MANUAL"
+    },
+    {
+      "id": 4,
+      "vin": "GHI789",
+      "make": "Ford",
+      "model": "Fusion",
+      "year": 2019,
+      "mileage": 35000,
+      "fuel": "GASOLINE",
+      "licence_plate": "PQR345",
+      "refuel_counter": 2,
+      "model_description": "Hatchback",
+      "transmission": "AUTOMATIC"
+    },
+    {
+      "id": 5,
+      "vin": "JKL012",
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "year": 2021,
+      "mileage": 25000,
+      "fuel": "GASOLINE",
+      "licence_plate": "STU678",
+      "refuel_counter": 4,
+      "model_description": "Convertible",
+      "transmission": "AUTOMATIC"
+    },
+    {
+      "id": 6,
+      "vin": "MNO345",
+      "make": "Nissan",
+      "model": "Altima",
+      "year": 2017,
+      "mileage": 28000,
+      "fuel": "ELECTRIC",
+      "licence_plate": "VWX901",
+      "refuel_counter": 6,
+      "model_description": "SUV",
+      "transmission": "AUTOMATIC"
+    },
+    {
+      "id": 7,
+      "vin": "PQR678",
+      "make": "Kia",
+      "model": "Optima",
+      "year": 2019,
+      "mileage": 32000,
+      "fuel": "OTHER",
+      "licence_plate": "YZA234",
+      "refuel_counter": 3,
+      "model_description": "Wagon",
+      "transmission": "MANUAL"
+    }
+  ]
+}
